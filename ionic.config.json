@@ -1,0 +1,7 @@
+{
+  "name": "lista3.1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
